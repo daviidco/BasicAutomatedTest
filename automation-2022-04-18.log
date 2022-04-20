@@ -1,0 +1,26 @@
+2022-04-18T17:45:13,411 [main] INFO  (ReqRestTestV4.java:33) - Iniciando la configuración
+2022-04-18T17:45:13,991 [main] INFO  (ReqRestTestV4.java:44) - Configuración Exitosa.
+2022-04-18T17:47:45,335 [main] INFO  (ReqRestTestV4.java:32) - Iniciando la configuración
+2022-04-18T17:47:46,011 [main] INFO  (ReqRestTestV4.java:43) - Configuración Exitosa.
+2022-04-18T17:48:52,402 [Test worker] INFO  (ReqRestTestV4.java:32) - Iniciando la configuración
+2022-04-18T17:48:52,809 [Test worker] INFO  (ReqRestTestV4.java:43) - Configuración Exitosa.
+2022-04-18T17:49:23,761 [Test worker] INFO  (ReqRestTestV4.java:32) - Iniciando la configuración
+2022-04-18T17:49:24,479 [Test worker] INFO  (ReqRestTestV4.java:43) - Configuración Exitosa.
+2022-04-18T17:49:27,400 [Test worker] INFO  (ReqRestTestV4.java:32) - Iniciando la configuración
+2022-04-18T17:49:27,402 [Test worker] INFO  (ReqRestTestV4.java:43) - Configuración Exitosa.
+2022-04-18T17:49:28,317 [Test worker] INFO  (ReqRestTestV4.java:32) - Iniciando la configuración
+2022-04-18T17:49:28,320 [Test worker] INFO  (ReqRestTestV4.java:43) - Configuración Exitosa.
+2022-04-18T17:49:29,465 [Test worker] INFO  (ReqRestTestV4.java:32) - Iniciando la configuración
+2022-04-18T17:49:29,468 [Test worker] INFO  (ReqRestTestV4.java:43) - Configuración Exitosa.
+2022-04-18T17:49:30,381 [Test worker] INFO  (ReqRestTestV4.java:32) - Iniciando la configuración
+2022-04-18T17:49:30,383 [Test worker] INFO  (ReqRestTestV4.java:43) - Configuración Exitosa.
+2022-04-18T17:49:30,938 [Test worker] INFO  (ReqRestTestV4.java:32) - Iniciando la configuración
+2022-04-18T17:49:30,940 [Test worker] INFO  (ReqRestTestV4.java:43) - Configuración Exitosa.
+2022-04-18T17:49:31,632 [Test worker] INFO  (ReqRestTestV4.java:32) - Iniciando la configuración
+2022-04-18T17:49:31,634 [Test worker] INFO  (ReqRestTestV4.java:43) - Configuración Exitosa.
+2022-04-18T17:49:32,032 [Test worker] INFO  (ReqRestTestV4.java:32) - Iniciando la configuración
+2022-04-18T17:49:32,035 [Test worker] INFO  (ReqRestTestV4.java:43) - Configuración Exitosa.
+2022-04-18T17:49:32,828 [Test worker] INFO  (ReqRestTestV4.java:32) - Iniciando la configuración
+2022-04-18T17:49:32,831 [Test worker] INFO  (ReqRestTestV4.java:43) - Configuración Exitosa.
+2022-04-18T17:50:27,414 [Test worker] INFO  (ReqRestTestV4.java:32) - Iniciando la configuración
+2022-04-18T17:50:27,825 [Test worker] INFO  (ReqRestTestV4.java:43) - Configuración Exitosa.
